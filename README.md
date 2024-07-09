@@ -1,6 +1,6 @@
 # Computation-Methods-for-Science-and-Technology
  
-The tasks were completed as part of the Computational Methods in Science and Technology course at AGH UST. These tasks were implemented using the `Julia` programming language in `Jupyter Notebook`.
+The tasks were completed as part of the Computational Methods in Science and Technology course at AGH UST in the academic year 2023/2024. These tasks were implemented using the `Julia` programming language in `Jupyter Notebook`.
 
 ## Laboratories
 
